@@ -1,0 +1,37 @@
+ 
+  .finalorder {
+    border-top: 0.5 solid black;
+    padding: 0.5rem 0;
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+    list-style: none;
+  }
+ 
+  .backtocart{
+      margin-left: 2rem;
+  }
+
+  .orderstext{
+    margin-left: 2rem;
+  }
+
+  .btn4{
+    background-color: red;
+    color: white;
+    padding: 14px 25px;
+    margin-left: 2.5rem;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .returnIcon{
+      height: 40px;
+      width: 40px;
+      margin-left: 2rem;
+  }
+
+  .deleteIcon{
+      width: 40px;
+      height: 40px;
+  }

@@ -1,0 +1,16 @@
+.cart-icon {
+  height: 5rem;
+  width: 5rem;
+  border-radius: 50%;
+  margin: 1rem 1rem 0 1rem;
+}
+.cart-widget {
+  position: relative;
+}
+.cart-number {
+  position: absolute;
+  left: 45%;
+  top: 5%;
+  color: rgba(18, 17, 19, 0.836);
+  font-weight: bold;
+}

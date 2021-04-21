@@ -1,0 +1,63 @@
+.yourcart{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.item {
+  width: 18rem;
+  display: inline-block;
+  margin: 5px;
+}
+.item-picture {
+  width: 18rem;
+  height: 16rem;
+}
+ 
+.btn {
+  margin: 1rem;
+  background-color: rgba(17, 16, 16, 0.932);
+  border-color: black;
+}
+
+.btn:hover {
+  background-color: rgba(247, 8, 8, 0.993);
+  border-color: transparent;
+}
+
+.btn-primary {
+  margin-top: 0.2rem;
+  border-color: transparent;
+  border-radius: 1.8rem;
+}
+
+.delete-icon {
+  position: relative;
+  height: 80%;
+}
+.final-buttons {
+  position: absolute;
+  display: flex;
+  margin-left: 27.5%
+  
+  
+}
+.return-link img {
+  position: absolute;
+  height: 1.5rem;
+  width: 1.5rem;
+  align-items: initial;
+}
+
+.total {
+  color: rgba(247, 8, 8, 0.993);
+  font-style: normal;
+  font-weight: lighter;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.message {
+  color: rgba(247, 8, 8, 0.993);
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: fantasy;
+  margin: 5rem;
+}
+ 
